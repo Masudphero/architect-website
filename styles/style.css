@@ -21,7 +21,10 @@
   color: #424242;
 }
 
- 
+.section-title{
+  font-size: 2.8rem;
+  font-weight: 700;
+ }
 /* dark 03 */
 .text-light-gray{
   color: #727272;
@@ -114,10 +117,7 @@ main> section{
     max-width: 530px;
    }
 
-   .feature-title{
-    font-size: 2.8rem;
-    font-weight: 700;
-   }
+   
    #Quick list{
     font-weight: 500;
    }
